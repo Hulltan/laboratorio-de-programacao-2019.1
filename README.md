@@ -1,2 +1,2 @@
-# laboratorio-de-programacao-2019.1
+# Laboratório de programação
 Códigos referentes a disciplina de laboratório de programação no primeiro semestre de 2019
